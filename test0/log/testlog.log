@@ -1,0 +1,15 @@
+2023-02-07 00:48:39,850 - Log4J -INFO - chrome browser instance opened
+2023-02-07 00:48:39,966 - Log4J -INFO - Maximized window
+2023-02-07 00:48:39,970 - Log4J -INFO - Implicit wait given
+2023-02-07 00:48:40,913 - Log4J -INFO - Application Launched
+2023-02-07 00:48:41,009 - Log4J -INFO - Web Element Displayed
+2023-02-07 00:55:25,888 - Log4J -INFO - chrome browser instance opened
+2023-02-07 00:55:26,005 - Log4J -INFO - Maximized window
+2023-02-07 00:55:26,009 - Log4J -INFO - Implicit wait given
+2023-02-07 00:55:26,925 - Log4J -INFO - Application Launched
+2023-02-07 00:55:56,983 - Log4J -INFO - Failure - Web Element Not Displayed
+2023-02-07 00:56:30,630 - Log4J -INFO - chrome browser instance opened
+2023-02-07 00:56:30,738 - Log4J -INFO - Maximized window
+2023-02-07 00:56:30,741 - Log4J -INFO - Implicit wait given
+2023-02-07 00:56:31,926 - Log4J -INFO - Application Launched
+2023-02-07 00:56:31,953 - Log4J -INFO - Web Element Displayed
