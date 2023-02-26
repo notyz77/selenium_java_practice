@@ -8,7 +8,7 @@ public class Amaztxt {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver", "/home/ap/Downloads/selenium_files/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/home/ap/Downloads/selenium_files/ChromeDriver/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.in/");
 		

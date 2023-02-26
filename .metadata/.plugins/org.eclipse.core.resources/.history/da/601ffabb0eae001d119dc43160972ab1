@@ -1,9 +1,0 @@
-package test01;
-
-public class MethodOverride2 {
-	
-	public void eat() {
-		System.out.println("You are eating");
-	}
-	
-}

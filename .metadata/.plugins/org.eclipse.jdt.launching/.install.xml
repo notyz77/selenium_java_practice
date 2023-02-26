@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/home/ap/.portable_apps/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre" stamp="1669925590000"/>
+    <entry loc="/home/ap/.portable_apps/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933" stamp="1669925590000"/>
     <entry loc="/home/ap/.portable_apps/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.4.v20220903-1038/jre" stamp="1662666235000"/>
     <entry loc="/opt/jdk/jdk1.8.0_202" stamp="1544907196000"/>
     <entry loc="/home/ap/.portable_apps/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.4.v20220903-1038" stamp="1662666235000"/>

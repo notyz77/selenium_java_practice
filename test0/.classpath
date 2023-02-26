@@ -6,13 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/libs/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/libs/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/selenium-java/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/log4j.jar"/>
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/poi-bin-5.2.3/auxiliary/batik-anim-1.14.jar"/>
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/poi-bin-5.2.3/auxiliary/batik-awt-util-1.14.jar"/>
@@ -64,5 +57,12 @@
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar"/>
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/poi-bin-5.2.3/poi-ooxml-lite-5.2.3.jar"/>
 	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/ap/Downloads/selenium_files/Selenium/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
