@@ -1,3 +1,4 @@
+//c35
 package test01;
 
 import java.util.List;
@@ -21,6 +22,24 @@ public class webTable {
 //		Create list - allCompanies
 		List<WebElement> allCompanies = driver.findElements(By.xpath("//table[@class='dataTable']/tbody/tr/td[1]/a"));
 		System.out.println("Total Companies = " + allCompanies.size());
+		
+//		Create List - currentPrice
+		List<WebElement> curPrice = driver.findElements(By.xpath("//table[@class='dataTable']/tbody/tr/td[4]"));
+		System.out.println("Total current Price = " + curPrice.size());
+		
+		String expCompanieName = "IZMO";
+		
+		for (int i = 0; i < allCompanies.size(); i++) {
+			
+			if (allCompanies.get(i).getText().equalsIgnoreCase(expCompanieName)) {
+				
+				System.out.println(allCompanies.get(i).getText() + " = " + curPrice.get(i).getText());
+				allCompanies.get(i).click();
+				break;
+				
+			}
+			
+		}
 	}
 
 }
