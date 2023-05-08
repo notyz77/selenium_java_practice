@@ -1,5 +1,6 @@
 package JavaPackage;
 
+import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 import java.util.Random;
@@ -104,6 +105,11 @@ public class edge2 {
 		for (char c = 'A'; c <= 'Z'; c++) {
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//textarea[@id=\"sb_form_q\"]")).sendKeys(selectAll + pastAll + " " + c + enter1);
+		}
+		
+		for (int j = 0; j < 8; j++) {
+			Thread.sleep(2000);
+			driver.findElement(By.xpath("//textarea[@id=\"sb_form_q\"]")).sendKeys(selectAll + pastAll + " story" + j + enter1);
 		}
 
 	}
