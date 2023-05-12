@@ -49,7 +49,7 @@ public class ReadingExcel {
 		System.out.println("Total Columns :- " + sh.getRow(1).getLastCellNum());
 		
 		// Real Time Implementation
-		System.setProperty("webdriver.chrome.driver", "/home/ap/Downloads/selenium_files/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/home/ap/Downloads/selenium_files/ChromeDriver/chromedriver");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
